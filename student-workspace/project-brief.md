@@ -1,58 +1,52 @@
 # DT Project Brief
 
-*Fill in each section below to describe your Digital Transformation project proposal. The executive personas will use this information to challenge and evaluate your proposal.*
-
 ## Team Information
-- **Team Name**: [Your team name]
-- **Team Members**: [Names]
-- **Date**: [Date]
+- Team Name: IHSANIYE KARAKUS
+- Team Members: Ihsaniye Karakus
+- Date: April 4
 
 ## Target Company
-- **Company Name**: [Company name]
-- **Industry**: [Industry sector]
-- **Business Unit/Division**: [Specific business unit if applicable]
-- **Company Size**: [Revenue, employees, or other relevant metrics]
+- Company Name: Johnson Controls (JCI)
+- Industry: Smart Buildings & Building Technologies
+- Business Unit/Division: OpenBlue Digital Solutions
+- Company Size: ~$27 billion revenue, ~100,000 employees
 
 ## Business Problem
-*Describe the specific business problem or opportunity you are addressing. Be specific about the impact - use data where possible.*
-
-[Your business problem description here]
+Johnson Controls’ OpenBlue platform relies on data collected from multiple building systems. However, this data is often incomplete, inconsistent, or inaccurate. Poor data quality reduces the effectiveness of AI-driven analytics, leading to unreliable insights, operational inefficiencies, and increased risk in outcome-based contracts. This can result in financial losses, reduced customer trust, and limited scalability of digital solutions.
 
 ## Proposed Technology Solution
-*Describe the emerging technology you are proposing as a pilot. What is the technology? How does it address the business problem?*
-
-[Your technology solution description here]
+The proposed solution is an AI-powered data validation and anomaly detection system integrated into the OpenBlue platform. The system will automatically detect missing, inconsistent, or abnormal data and apply real-time data cleansing. This improves data quality, enhances AI model accuracy, reduces operational risks, and supports better decision-making.
 
 ## Primary Benefit Type
-*Select the primary benefit category (choose one):*
-- [ ] Cost Reduction
-- [ ] Revenue Growth
-- [ ] Risk Mitigation
-- [ ] Customer Experience
-- [ ] Operational Efficiency
-- [ ] Competitive Advantage
+- Risk Mitigation
 
 ## Proposed Timeline
-- **Pilot Duration**: [e.g., 6 months, 12 months]
-- **Key Milestones**: [List 3-5 key milestones]
+- Pilot Duration: 6 months
+- Key Milestones:
+  - Month 1: Data assessment and system design
+  - Month 2–3: AI model development and testing
+  - Month 4: Integration with pilot buildings
+  - Month 5: Performance monitoring and optimization
+  - Month 6: Final evaluation and reporting
 
 ## Initial Financial Estimate
-- **Estimated Pilot Cost**: [Dollar range]
-- **Expected ROI**: [Percentage or dollar range over what period]
-- **Funding Source**: [CapEx, OpEx, or both]
+- Estimated Pilot Cost: $500,000 – $1,000,000
+- Expected ROI: 15%–25% within 1–2 years
+- Funding Source: CapEx and OpEx
 
 ## Key Risks
-*List the top 3-5 risks you've identified:*
-1. [Risk 1]
-2. [Risk 2]
-3. [Risk 3]
+1. Data integration complexity
+2. AI model inaccuracies
+3. Resistance to change
+4. Cybersecurity risks
+5. Uncertain ROI
 
 ## Stakeholders
-*Who are the key stakeholders affected by this initiative?*
-- [Stakeholder group 1 and their concerns]
-- [Stakeholder group 2 and their concerns]
+- IT and Data Teams – system integration and data quality
+- Executive Leadership – ROI and strategy
+- Customers (Building Owners) – reliability and performance
+- Operations Teams – usability and workflow
 
 ## Additional Notes
-*Any other context that would help the executive personas evaluate your proposal.*
+This project improves data reliability in the OpenBlue platform, enabling better AI-driven decisions, increasing customer trust, and providing a competitive advantage.
 
-[Additional notes here]
